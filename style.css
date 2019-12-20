@@ -1,17 +1,26 @@
 body{
-    background-color :rgba(186, 246, 146, 0.712);
+    background-color:antiquewhite;
+    color:black;
+    font-family: karla;
 }
 #title{
     text-align: center;
     font-size: 50px;
-    padding-bottom: 90px;
+    padding-bottom: 10px;
+}
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+    height: 50%;
 }
 #content{
-    font-size: 50px;
     text-align: center;
+    font-size: 30px;
 }
 button{
     font-size: 20px;
+    box-shadow: 0 8px 16px 0;
+    border-radius: 8px;
 } 
 #myRange{
     width: 50px;
