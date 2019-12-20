@@ -1,0 +1,18 @@
+body{
+    background-color :rgba(186, 246, 146, 0.712);
+}
+#title{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 90px;
+}
+#content{
+    font-size: 50px;
+    text-align: center;
+}
+button{
+    font-size: 20px;
+} 
+#myRange{
+    width: 50px;
+}
